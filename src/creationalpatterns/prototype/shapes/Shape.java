@@ -1,4 +1,4 @@
-package creationalpatterns.prototype;
+package creationalpatterns.prototype.shapes;
 
 import java.util.Objects;
 

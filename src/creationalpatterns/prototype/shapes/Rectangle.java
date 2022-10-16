@@ -1,4 +1,4 @@
-package creationalpatterns.prototype;
+package creationalpatterns.prototype.shapes;
 
 public class Rectangle extends Shape {
     public int width;

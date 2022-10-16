@@ -1,6 +1,6 @@
 package creationalpatterns.prototype.cache;
 
-import creationalpatterns.prototype.Shape;
+import creationalpatterns.prototype.shapes.Shape;
 
 public class Demo {
     public static void main(String[] args) {

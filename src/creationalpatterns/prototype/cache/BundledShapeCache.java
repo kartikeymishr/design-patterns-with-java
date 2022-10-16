@@ -1,8 +1,8 @@
 package creationalpatterns.prototype.cache;
 
-import creationalpatterns.prototype.Circle;
-import creationalpatterns.prototype.Rectangle;
-import creationalpatterns.prototype.Shape;
+import creationalpatterns.prototype.shapes.Circle;
+import creationalpatterns.prototype.shapes.Rectangle;
+import creationalpatterns.prototype.shapes.Shape;
 
 import java.util.HashMap;
 import java.util.Map;
