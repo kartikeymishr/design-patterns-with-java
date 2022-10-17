@@ -19,7 +19,7 @@ public class Singleton {
     public static Singleton getInstance(String value) {
         // The approach taken here is called double-checked locking (DCL)
         // It exists to prevent race condition between multiple threads that may
-        // attempt to get creationalpatterns.singleton instance at the same time, creating separate
+        // attempt to get singleton instance at the same time, creating separate
         // instances as a result
 
         // It may seem that having the 'result' variable here is completely pointless.
